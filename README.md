@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/init-bobJames/init-bobJames/main/bobJames-SeoHeader.png "Header")](https://www.orebix.com/linktree)
+### Hello 👋
+⚡ My name is Bob James and I'm an 🎯 SEO performance developer and 🚀 technical specialist. I'm originally from the United Kingdom 🌏 and currently working at Orebix Digital.
 
 <!--
 **init-bobJames/init-bobJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
