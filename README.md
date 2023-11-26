@@ -2,9 +2,10 @@
 ### Hello 👋
 ⚡ My name is Bob James and I'm an 🎯 SEO performance developer and 🚀 technical specialist. I'm originally from the United Kingdom 🌏 and currently working on my personal branding. 👨
 
-You can find me on [![Twitter][1.2]][1]
+You can find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] 
+
 <!--
-**init-bobJames/init-bobJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**init-bobjames/init-bobjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/init_bobJames
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/init_bobjames
+[2]: https://www.linkedin.com/in/bobbjames/
