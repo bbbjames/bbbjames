@@ -19,7 +19,7 @@
 
   ## 🚀 About Me
 
-  I'm a **Senior Digital Consultant** from the UK 🇬🇧 with 20+ years of experience leading digital transformation projects. I bri idge the gap between
+  I'm a **Senior Digital Consultant** from the UK 🇬🇧 with 20+ years of experience leading digital transformation projects. I bridge the gap between
   technical systems and business strategy, helping SMEs scale through intelligent automation and modern tech stacks.
 
   - 🔭 **Currently building:** [Streamer Helper](https://github.com/bbbjames/streamer-helper) - OBS remote control for content creators
@@ -102,13 +102,10 @@
   [![Twitch](https://img.shields.io/badge/🎮_Twitch-Live_Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://bobjames.dev/twitch)
   [![YouTube](https://img.shields.io/badge/▶️_YouTube-Tech_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](httpss://bobjames.dev/youtube)
 
-  [![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](htttps://bobjames.dev/twitte
-  r)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bobjames.dev/linked
-  in)
+  [![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](htttps://bobjames.dev/twitter)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bobjames.dev/linkedin)
 
-  [![Coffee](https://img.shields.io/badge/☕_Buy_Me_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bobjam
-  es.dev/coffee)
+  [![Coffee](https://img.shields.io/badge/☕_Buy_Me_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bobjames.dev/coffee)
 
   </div>
 
