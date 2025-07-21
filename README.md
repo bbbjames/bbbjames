@@ -97,8 +97,7 @@
   [![Website](https://img.shields.io/badge/🌐_Portfolio-bobjames.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://bobjames.dev)
   [![Apps](https://img.shields.io/badge/📱_My_Apps-bobjames.dev/apps-purple?style=for-the-badge&logo=windows&logoColor=white)](https://bobjames.dev/apps)
 
-  [![Discord](https://img.shields.io/badge/🎙️_Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](htttps://bobjames.dev/discord
-  )
+  [![Discord](https://img.shields.io/badge/🎙️_Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](htttps://bobjames.dev/discord)
   [![Twitch](https://img.shields.io/badge/🎮_Twitch-Live_Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://bobjames.dev/twitch)
   [![YouTube](https://img.shields.io/badge/▶️_YouTube-Tech_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](httpss://bobjames.dev/youtube)
 
