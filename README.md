@@ -63,7 +63,7 @@ A comprehensive desktop application for content creators and streamers featuring
 - 🔧 Cross-platform compatibility
 
 **Tech:** C#, .NET, OBS WebSocket API, Windows Forms
-**Status:** Beta v0.1.91 - [Download Now](https://bobjames.dev/apps/streamer-helper)
+**Status:** Beta v0.1.91 - [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
 
 ### 🌐 [bobjames.dev](https://bobjames.dev)
 **Personal Brand & Portfolio Platform**
