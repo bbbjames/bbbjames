@@ -62,7 +62,7 @@ A comprehensive desktop application for content creators and streamers featuring
 - 📊 Stream health monitoring
 - 🔧 Cross-platform compatibility
 
-**Tech:** C#, .NET, OBS WebSocket API, Windows Forms
+**Tech:** Electron, NextJS, OBS WebSocket, Twitch API
 **Status:** Beta v0.1.91 - [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
 
 ### 🌐 [bobjames.dev](https://bobjames.dev)
