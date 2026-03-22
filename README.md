@@ -21,7 +21,7 @@ technical systems and business strategy, helping SMEs scale through intelligent 
 - 💡 **Passion:** Creating tools that solve real problems and enhance productivity
 - ⚡ **Fun fact:** I've been coding since before GitHub existed!
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
 ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=white)
@@ -72,7 +72,7 @@ technical systems and business strategy, helping SMEs scale through intelligent 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-05122A?style=flat&logo=opentelemetry&logoColor=F5A800)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)
 
-## 🎯 Featured Projects
+## ✨ Featured Projects
 
 ### ⚡ [Streamer Helper](https://github.com/bbbjames/streamer-helper)
 **OBS Remote Control Application** - *Beta Release Available*
