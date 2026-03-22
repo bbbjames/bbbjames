@@ -74,7 +74,7 @@ technical systems and business strategy, helping SMEs scale through intelligent 
 
 ## 🎯 Featured Projects
 
-### 🎬 [Streamer Helper](https://github.com/bbbjames/streamer-helper)
+### ⚡ [Streamer Helper](https://github.com/bbbjames/streamer-helper)
 **OBS Remote Control Application** - *Beta Release Available*
 
 A comprehensive desktop application for content creators and streamers featuring:
