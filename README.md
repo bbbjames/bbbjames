@@ -6,10 +6,6 @@
 
 *20+ years transforming businesses through strategic digital solutions*
 
-[![Website](https://img.shields.io/badge/🌐_Website-bobjames.dev-fece00?style=for-the-badge)](https://bobjames.dev)
-[![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-fece00?style=for-the-badge)](https://bobjames.dev/twitter)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Bob_James-fece00?style=for-the-badge)](https://bobjames.dev/linkedin)
-
 ## 🚀 About Me
 
 I'm a **Senior Digital Consultant** from the UK 🇬🇧 with 20+ years of experience leading digital transformation projects. I bridge the gap between
@@ -118,10 +114,6 @@ Modern, responsive portfolio showcasing projects and professional services.
 
 [![Discord](https://img.shields.io/badge/🎙️_Discord-Join_Community-fece00?style=for-the-badge&logo=discord&logoColor=white)](https://bobjames.dev/discord)
 [![Twitch](https://img.shields.io/badge/🎮_Twitch-Live_Coding-fece00?style=for-the-badge&logo=twitch&logoColor=white)](https://bobjames.dev/twitch)
-[![YouTube](https://img.shields.io/badge/▶️_YouTube-Tech_Content-fece00?style=for-the-badge&logo=youtube&logoColor=white)](https://bobjames.dev/youtube)
-
-[![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-fece00?style=for-the-badge&logo=twitter&logoColor=white)](https://bobjames.dev/twitter)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional-fece00?style=for-the-badge&logo=linkedin&logoColor=white)](https://bobjames.dev/linkedin)
 
 [![Coffee](https://img.shields.io/badge/☕_Buy_Me_Coffee-Support_My_Work-fece00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bobjames.dev/coffee)
 
