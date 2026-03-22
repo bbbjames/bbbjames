@@ -6,9 +6,9 @@
 
 *20+ years transforming businesses through strategic digital solutions*
 
-[![Website](https://img.shields.io/badge/🌐_Website-bobjames.dev-blue?style=for-the-badge)](https://bobjames.dev)
-[![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-1DA1F2?style=for-the-badge)](https://bobjames.dev/twitter)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Bob_James-0077B5?style=for-the-badge)](https://bobjames.dev/linkedin)
+[![Website](https://img.shields.io/badge/🌐_Website-bobjames.dev-fece00?style=for-the-badge)](https://bobjames.dev)
+[![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-fece00?style=for-the-badge)](https://bobjames.dev/twitter)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Bob_James-fece00?style=for-the-badge)](https://bobjames.dev/linkedin)
 
 ## 🚀 About Me
 
@@ -113,16 +113,16 @@ Modern, responsive portfolio showcasing projects and professional services.
 
 ## 🌟 Connect With Bob
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-bobjames.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://bobjames.dev)
-[![Apps](https://img.shields.io/badge/📱_My_Apps-bobjames.dev/apps-purple?style=for-the-badge&logo=windows&logoColor=white)](https://bobjames.dev/apps)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-bobjames.dev-fece00?style=for-the-badge&logo=safari&logoColor=white)](https://bobjames.dev)
+[![Apps](https://img.shields.io/badge/📱_My_Apps-bobjames.dev/apps-fece00?style=for-the-badge&logo=windows&logoColor=white)](https://bobjames.dev/apps)
 
-[![Discord](https://img.shields.io/badge/🎙️_Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://bobjames.dev/discord)
-[![Twitch](https://img.shields.io/badge/🎮_Twitch-Live_Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://bobjames.dev/twitch)
-[![YouTube](https://img.shields.io/badge/▶️_YouTube-Tech_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://bobjames.dev/youtube)
+[![Discord](https://img.shields.io/badge/🎙️_Discord-Join_Community-fece00?style=for-the-badge&logo=discord&logoColor=white)](https://bobjames.dev/discord)
+[![Twitch](https://img.shields.io/badge/🎮_Twitch-Live_Coding-fece00?style=for-the-badge&logo=twitch&logoColor=white)](https://bobjames.dev/twitch)
+[![YouTube](https://img.shields.io/badge/▶️_YouTube-Tech_Content-fece00?style=for-the-badge&logo=youtube&logoColor=white)](https://bobjames.dev/youtube)
 
-[![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bobjames.dev/twitter)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bobjames.dev/linkedin)
+[![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-fece00?style=for-the-badge&logo=twitter&logoColor=white)](https://bobjames.dev/twitter)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional-fece00?style=for-the-badge&logo=linkedin&logoColor=white)](https://bobjames.dev/linkedin)
 
-[![Coffee](https://img.shields.io/badge/☕_Buy_Me_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bobjames.dev/coffee)
+[![Coffee](https://img.shields.io/badge/☕_Buy_Me_Coffee-Support_My_Work-fece00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bobjames.dev/coffee)
 
 *Building the future, one commit at a time* 🚀
