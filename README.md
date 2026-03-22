@@ -1,6 +1,4 @@
-<div align="center">
-
-[![Header](https://raw.githubusercontent.com/bbbjames/init-bobJames/main/bobJames-SeoHeader.png "Header")](https://bobjames.dev)
+[![$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5 — 474 podman, 107 cd, 104 ls, 100 systemctl, 54 git](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp "$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5")](https://bobjames.dev)
 
 # Hi 👋 I'm Bob James
 
@@ -10,12 +8,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-bobjames.dev-blue?style=for-the-badge)](https://bobjames.dev)
 [![Twitter](https://img.shields.io/badge/🕊️_Twitter-@init__bobjames-1DA1F2?style=for-the-badge)](https://bobjames.dev/twitter)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-bobbjames-0077B5?style=for-the-badge)](https://bobjames.dev/linkedin) 
-[![Discord](https://img.shields.io/badge/🎙️_Discord-Community-5865F2?style=for-the-badge)](https://bobjames.dev/discord)
-
-</div>
-
----
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Bob_James-0077B5?style=for-the-badge)](https://bobjames.dev/linkedin)
 
 ## 🚀 About Me
 
@@ -31,24 +24,53 @@ technical systems and business strategy, helping SMEs scale through intelligent 
 ## 🛠️ Tech Stack & Expertise
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-00000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-00000000?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00000000?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00000000?style=flat&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00000000?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00000000?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00000000?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00000000?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00000000?style=flat&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-00000000?style=flat&logo=gnu-bash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-00000000?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-00000000?style=flat&logo=css3&logoColor=white)
 
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+### **Ecommerce & CMS**
+![WordPress](https://img.shields.io/badge/WordPress-00000000?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-00000000?style=flat&logo=woocommerce&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-00000000?style=flat&logo=directus&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-00000000?style=flat&logo=joomla&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-00000000?style=flat&logo=drupal&logoColor=white)
 
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+### **Infrastructure & DevOps**
+![Linux](https://img.shields.io/badge/Linux-00000000?style=flat&logo=linux&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-00000000?style=flat&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00000000?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-00000000?style=flat&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-00000000?style=flat&logo=proxmox&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-00000000?style=flat&logo=ansible&logoColor=white)
+
+### **Cloud & CI/CD**
+![AWS](https://img.shields.io/badge/AWS-00000000?style=flat&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-00000000?style=flat&logo=digitalocean&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-00000000?style=flat&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00000000?style=flat&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-00000000?style=flat&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-00000000?style=flat&logo=jenkins&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-00000000?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000000?style=flat&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-00000000?style=flat&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-00000000?style=flat&logo=redis&logoColor=white)
+
+### **Monitoring & Security**
+![New Relic](https://img.shields.io/badge/New_Relic-00000000?style=flat&logo=newrelic&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-00000000?style=flat&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-00000000?style=flat&logo=opentelemetry&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00000000?style=flat&logo=git&logoColor=white)
 
 ## 🎯 Featured Projects
 
@@ -89,9 +111,7 @@ Modern, responsive portfolio showcasing projects and professional services.
 - 🔒 **Cybersecurity** - Working toward CISSP/Security+ certifications
 - 🐳 **DevOps** - Docker, Kubernetes, Infrastructure as Code
 
-## 🌟 Connect With Me
-
-<div align="center">
+## 🌟 Connect With Bob
 
 [![Website](https://img.shields.io/badge/🌐_Portfolio-bobjames.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://bobjames.dev)
 [![Apps](https://img.shields.io/badge/📱_My_Apps-bobjames.dev/apps-purple?style=for-the-badge&logo=windows&logoColor=white)](https://bobjames.dev/apps)
@@ -105,12 +125,4 @@ Modern, responsive portfolio showcasing projects and professional services.
 
 [![Coffee](https://img.shields.io/badge/☕_Buy_Me_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bobjames.dev/coffee)
 
-</div>
-
----
-
-<div align="center">
-
 *Building the future, one commit at a time* 🚀
-
-</div>
