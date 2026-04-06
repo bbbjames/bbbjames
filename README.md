@@ -1,4 +1,4 @@
-[![$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5 — 474 podman, 107 cd, 104 ls, 100 systemctl, 54 git](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp "$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5")](https://bobjames.dev)
+[![$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5 — 474 podman, 107 cd, 104 ls, 100 systemctl, 54 git](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp "$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5")](https://bobjames.dev/)
 
 # Hi 👋 I'm Bob James Dev
 
