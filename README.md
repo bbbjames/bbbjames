@@ -83,8 +83,8 @@ A comprehensive desktop application for content creators and streamers featuring
 **Tech:** Electron, NextJS, OBS WebSocket, Twitch API
 **Status:** Beta v0.1.91 - [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
 
-### ⚡ [bobjames.dev](https://bobjames.dev)
-**Personal Brand & Portfolio Platform**
+### ⚡ [bobjames.dev](https://bobjames.dev/)
+**Personal AI Dev & Tech Portfolio Platform**
 
 Modern, responsive portfolio showcasing projects and professional services.
 - ⚡ Next.js with TypeScript
