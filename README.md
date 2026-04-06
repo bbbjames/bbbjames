@@ -109,7 +109,7 @@ Modern, responsive portfolio showcasing projects and professional services.
 
 ## 🌟 Connecting With Bob James
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-bobjames.dev-fece00?style=for-the-badge&logo=safari&logoColor=white)](https://bobjames.dev)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-bobjames.dev-fece00?style=for-the-badge&logo=safari&logoColor=white)](https://bobjames.dev/)
 [![Apps](https://img.shields.io/badge/📱_My_Apps-bobjames.dev/apps-fece00?style=for-the-badge&logo=windows&logoColor=white)](https://bobjames.dev/apps)
 
 [![Discord](https://img.shields.io/badge/🎙️_Discord-Join_Community-fece00?style=for-the-badge&logo=discord&logoColor=white)](https://bobjames.dev/discord)
