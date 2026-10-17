@@ -1,13 +1,11 @@
-[![Header](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp)](https://bobjames.dev/)
+[![Bob James AI Dev Profile](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp)](https://bobjames.dev/about)
 
 # Bob James
 ### Senior Digital Engineer • Product Builder • AI & Automation Strategist
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-United%20Kingdom%20🇬🇧-1f7a8c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-20%2B%20Years-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cloud%20%7C%20Systems-3b82f6?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Location-United%20Kingdom%20🇬🇧-1f7a8c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Experience-20%2B%20Years-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cloud%20%7C%20Systems-3b82f6?style=for-the-badge" />
 
 I help businesses turn complexity into systems that scale — combining engineering, product thinking, automation, and digital strategy to build practical solutions that create momentum.
 
@@ -16,9 +14,7 @@ I help businesses turn complexity into systems that scale — combining engineer
 - 💡 Approach: build clean systems that solve real problems and create measurable value
 - 🌱 Always exploring: AI-native tooling, cloud infrastructure, modern operational design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbbjames&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=bbbjames&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
 ---
 
@@ -84,12 +80,14 @@ My portfolio and digital platform for projects, services, and experimentation.
 
 ## Connect
 
-<p align="center">
-  <a href="https://bobjames.dev/"><img src="https://img.shields.io/badge/Portfolio-bobjames.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-  <a href="https://bobjames.dev/apps"><img src="https://img.shields.io/badge/Apps-Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Apps" /></a>
-  <a href="https://bobjames.dev/discord"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://bobjames.dev/twitch"><img src="https://img.shields.io/badge/Twitch-Live%20Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://bobjames.dev/coffee"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
-</p>
+<a href="https://bobjames.dev/"><img src="https://img.shields.io/badge/Portfolio-bobjames.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+
+<a href="https://bobjames.dev/apps"><img src="https://img.shields.io/badge/Apps-Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Apps" /></a>
+
+<a href="https://bobjames.dev/discord"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+<a href="https://bobjames.dev/twitch"><<img src="https://img.shields.io/badge/Twitch-Live%20Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+
+<a href="https://bobjames.dev/coffee"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
 
 > Building practical tools, scalable systems, and useful automation. One commit at a time. 🚀
