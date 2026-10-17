@@ -3,9 +3,11 @@
 # Bob James
 ### Senior Digital Engineer • Product Builder • AI & Automation Strategist
 
-<img src="https://img.shields.io/badge/Location-United%20Kingdom%20🇬🇧-1f7a8c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Experience-20%2B%20Years-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cloud%20%7C%20Systems-3b82f6?style=for-the-badge" />
+<p>
+<img src="https://img.shields.io/badge/Location-United%20Kingdom-1f7a8c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: United Kingdom" />
+<img src="https://img.shields.io/badge/Experience-20%2B%20Years-0f172a?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience: 20+ Years" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cloud%20%7C%20Systems-3b82f6?style=for-the-badge&logo=openai&logoColor=white" alt="Focus: AI | Cloud | Systems" />
+</p>
 
 I help businesses turn complexity into systems that scale — combining engineering, product thinking, automation, and digital strategy to build practical solutions that create momentum.
 
