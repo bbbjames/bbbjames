@@ -1,21 +1,20 @@
 [![Header](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp)](https://bobjames.dev/)
 
-# Hi, I'm Bob James 👋
+# Bob James
 ### Senior Digital Engineer • Full-Stack Builder • AI & Automation Specialist
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-UK%20🇬🇧-1f7a8c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-20%2B%20Years-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20Cloud-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UK%20🇬🇧-Based-1f7a8c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/20%2B%20Years-Experience-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%7C%20Cloud%20%7C%20Automation-Focus-3b82f6?style=for-the-badge" />
 </p>
 
-I design and build digital systems that help businesses scale — from strategy and architecture through to delivery, automation, and deployment. I work at the intersection of technology, product thinking, and practical execution.
+I build digital systems that turn ideas into real-world products — from architecture and software engineering to automation, integrations, and cloud delivery.
 
-- 🔭 Currently building: [Streamer Helper](https://github.com/bbbjames/streamer-helper)
-- 🚀 Core focus: AI workflows, automation, full-stack engineering, digital transformation
-- 💡 Passion: turning ideas into useful tools that solve real-world problems
-- 🌱 Learning: advanced AI integrations, cloud-native platforms, data-driven systems
-- ⚡ Fun fact: I’ve been building digital products and systems long before GitHub became the norm
+- 🔭 Current focus: [Streamer Helper](https://github.com/bbbjames/streamer-helper)
+- 🚀 Specialities: AI workflows, automation, product engineering, digital transformation
+- 💡 What I enjoy: solving real business problems with clean, scalable technology
+- 🌱 Always learning: cloud-native design, intelligent tooling, modern product delivery
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bbbjames&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -23,27 +22,27 @@ I design and build digital systems that help businesses scale — from strategy 
 
 ---
 
-## Featured Projects
+## Featured work
 
 ### [Streamer Helper](https://github.com/bbbjames/streamer-helper)
-OBS remote-control tooling for creators and streamers.
+OBS remote-control tooling for creators, streamers, and live production workflows.
 
-- Remote control of OBS scenes and streaming workflows
-- Built for productivity, content workflows, and live production
-- Fast iteration with modern web and desktop tooling
+- Remote OBS scene control
+- Streaming workflow automation
+- Modern desktop/web tooling for creators
 
 ### [bobjames.dev](https://bobjames.dev/)
 My portfolio and digital platform for projects, services, and experimentation.
 
-- Built with modern web tooling
-- Focused on clarity, performance, and conversion
-- A reflection of ongoing product and technical work
+- Product-first web design
+- Performance and clarity focused
+- Practical implementation without unnecessary complexity
 
 ---
 
-## Tech Stack
+## Stack
 
-### Languages & Frontend
+### Languages & frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -54,7 +53,7 @@ My portfolio and digital platform for projects, services, and experimentation.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Platforms, CMS & Data
+### Platforms, CMS & data
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![Directus](https://img.shields.io/badge/Directus-6644FF?style=flat&logo=directus&logoColor=white)
@@ -62,7 +61,7 @@ My portfolio and digital platform for projects, services, and experimentation.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### DevOps, Cloud & Infrastructure
+### Cloud, DevOps & infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
@@ -73,13 +72,13 @@ My portfolio and digital platform for projects, services, and experimentation.
 
 ---
 
-## What I Bring
+## What I bring
 
-- Product-minded engineering with a business-first approach
+- Product-minded engineering with a business-first lens
 - End-to-end delivery from concept to deployment
 - Digital transformation strategy and implementation
-- Automation and tooling for real operational efficiency
-- Strong focus on maintainability, performance, and measurable impact
+- Automation that improves real operational efficiency
+- Maintainable systems built for scale and measurable impact
 
 ---
 
@@ -90,8 +89,7 @@ My portfolio and digital platform for projects, services, and experimentation.
   <a href="https://bobjames.dev/apps"><img src="https://img.shields.io/badge/Apps-Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Apps" /></a>
   <a href="https://bobjames.dev/discord"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://bobjames.dev/twitch"><img src="https://img.shields.io/badge/Twitch-Live%20Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://bobjames.dev/coffee"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
+  <a href="https://bobjames.dev/coffee"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
-> Building practical tools, scalable systems, and useful automation. 
-> One commit at a time. 🚀
+> Building practical tools, reliable systems, and useful automation. One commit at a time. 🚀
