@@ -1,6 +1,6 @@
 [![Bob James AI Dev Profile](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp)](https://bobjames.dev/about)
 
-# 🧠 Bob James: Building Practical AI, Cloud, and Systems That Scale
+# 🧠 Bob James: AI, Cloud, and Systems That Scale
 ### Senior Digital Engineer • Product Builder • AI & Automation Strategist
 
 Turning complexity into clear, scalable systems with AI, automation, and product engineering.
