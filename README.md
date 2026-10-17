@@ -1,120 +1,97 @@
-[![$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5 — 474 podman, 107 cd, 104 ls, 100 systemctl, 54 git](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp "$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head -5")](https://bobjames.dev/)
+[![Header](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp)](https://bobjames.dev/)
 
-# Hi 👋 I'm Bob James the AI Dev 🤖
+# Hi, I'm Bob James 👋
+### Senior Digital Engineer • Full-Stack Builder • AI & Automation Specialist
 
-**Senior Software Engineer | Digital Consultant | Full-Stack Developer | Solutions Architect**
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-UK%20🇬🇧-1f7a8c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-20%2B%20Years-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20Cloud-3b82f6?style=for-the-badge" />
+</p>
 
-*20+ years transforming businesses through strategic digital solutions*
+I design and build digital systems that help businesses scale — from strategy and architecture through to delivery, automation, and deployment. I work at the intersection of technology, product thinking, and practical execution.
 
-## 🚀 About Me
+- 🔭 Currently building: [Streamer Helper](https://github.com/bbbjames/streamer-helper)
+- 🚀 Core focus: AI workflows, automation, full-stack engineering, digital transformation
+- 💡 Passion: turning ideas into useful tools that solve real-world problems
+- 🌱 Learning: advanced AI integrations, cloud-native platforms, data-driven systems
+- ⚡ Fun fact: I’ve been building digital products and systems long before GitHub became the norm
 
-I'm a **Senior Digital Engineer** from the UK 🇬🇧 with 20+ years of experience leading digital transformation projects. I bridge the gap between
-technical systems and business strategy, helping SMEs scale through intelligent automation and modern tech stacks.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bbbjames&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
 
-- 🔭 **Currently building:** [Streamer Helper](https://github.com/bbbjames/streamer-helper) - OBS remote control for content creators
-- 🎯 **Expertise:** Digital transformation, full-stack development, technical SEO, systems architecture
-- 🌱 **Learning:** AI/ML integration, cloud-native architectures, data science
-- 💡 **Passion:** Creating tools that solve real problems and enhance productivity
-- ⚡ **Fun fact:** I've been coding since before GitHub existed!
+---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-### **Languages & Frameworks**
-![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp&logoColor=239120)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=ED8B00)
-![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
+### [Streamer Helper](https://github.com/bbbjames/streamer-helper)
+OBS remote-control tooling for creators and streamers.
 
-### **Ecommerce & CMS**
-![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-05122A?style=flat&logo=woocommerce&logoColor=96588A)
-![Directus](https://img.shields.io/badge/Directus-05122A?style=flat&logo=directus&logoColor=6644FF)
-![Joomla](https://img.shields.io/badge/Joomla-05122A?style=flat&logo=joomla&logoColor=5091CD)
-![Drupal](https://img.shields.io/badge/Drupal-05122A?style=flat&logo=drupal&logoColor=0678BE)
+- Remote control of OBS scenes and streaming workflows
+- Built for productivity, content workflows, and live production
+- Fast iteration with modern web and desktop tooling
 
-### **Infrastructure & DevOps**
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
-![Podman](https://img.shields.io/badge/Podman-05122A?style=flat&logo=podman&logoColor=892CA0)
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat&logo=nginx&logoColor=009639)
-![Proxmox](https://img.shields.io/badge/Proxmox-05122A?style=flat&logo=proxmox&logoColor=E57000)
-![Ansible](https://img.shields.io/badge/Ansible-05122A?style=flat&logo=ansible&logoColor=EE0000)
+### [bobjames.dev](https://bobjames.dev/)
+My portfolio and digital platform for projects, services, and experimentation.
 
-### **Cloud & CI/CD**
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-05122A?style=flat&logo=digitalocean&logoColor=0080FF)
-![Azure](https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0078D4)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05122A?style=flat&logo=github-actions&logoColor=2088FF)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-05122A?style=flat&logo=gitlab&logoColor=FC6D26)
-![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)
+- Built with modern web tooling
+- Focused on clarity, performance, and conversion
+- A reflection of ongoing product and technical work
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=316192)
-![MariaDB](https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=mariadb&logoColor=C0765A)
-![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis&logoColor=DC382D)
+---
 
-### **Monitoring & Security**
-![New Relic](https://img.shields.io/badge/New_Relic-05122A?style=flat&logo=newrelic&logoColor=1CE783)
-![Prometheus](https://img.shields.io/badge/Prometheus-05122A?style=flat&logo=prometheus&logoColor=E6522C)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-05122A?style=flat&logo=opentelemetry&logoColor=F5A800)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)
+## Tech Stack
 
-## ✨ Featured Projects
+### Languages & Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### ⚡ [Streamer Helper](https://github.com/bbbjames/streamer-helper)
-**OBS Remote Control Application** - *Beta Release Available*
+### Platforms, CMS & Data
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-6644FF?style=flat&logo=directus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-A comprehensive desktop application for content creators and streamers featuring:
-- 🎮 Remote OBS Studio control
-- 💬 Real-time Twitch chat management
-- 🎨 Visual scene manager with previews
-- 📊 Stream health monitoring
-- 🔧 Cross-platform compatibility
+### DevOps, Cloud & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Tech:** Electron, NextJS, OBS WebSocket, Twitch API
-**Status:** Beta v0.1.91 - [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
+---
 
-### ⚡ [bobjames.dev](https://bobjames.dev/)
-**Personal AI Dev & Tech Portfolio Platform**
+## What I Bring
 
-Modern, responsive portfolio showcasing projects and professional services.
-- ⚡ Next.js with TypeScript
-- 🎨 Tailwind CSS design system
-- 🙏 Supabase and Vercel
+- Product-minded engineering with a business-first approach
+- End-to-end delivery from concept to deployment
+- Digital transformation strategy and implementation
+- Automation and tooling for real operational efficiency
+- Strong focus on maintainability, performance, and measurable impact
 
-## 📈 Professional Highlights
+---
 
-- **20+ Years** in digital transformation and systems architecture
-- **Full-Stack Expertise** across multiple platforms and languages
-- **Business Growth** through strategic digital solutions and automation
-- **Team Leadership** managing cross-functional technical projects
-- **Security Focus** with PCI DSS compliance and penetration testing experience
+## Connect
 
-## 🎓 Currently Developing Expertise
+<p align="center">
+  <a href="https://bobjames.dev/"><img src="https://img.shields.io/badge/Portfolio-bobjames.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://bobjames.dev/apps"><img src="https://img.shields.io/badge/Apps-Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Apps" /></a>
+  <a href="https://bobjames.dev/discord"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://bobjames.dev/twitch"><img src="https://img.shields.io/badge/Twitch-Live%20Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="https://bobjames.dev/coffee"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
+</p>
 
-- 🤖 **AI/ML Integration** - OpenAI, Claude, TensorFlow
-- ☁️ **Cloud Architecture** - Serverless, microservices, CI/CD
-- 📊 **Data Science** - Python, Pandas, NumPy, Scikit-learn
-- 🔒 **Cybersecurity** - Working toward CISSP/Security+ certifications
-- 🐳 **DevOps** - Docker, Kubernetes, Infrastructure as Code
-
-## 🌟 Connecting With Bob James
-
-[![Website](https://img.shields.io/badge/🌐_Portfolio-bobjames.dev-fece00?style=for-the-badge&logo=safari&logoColor=white)](https://bobjames.dev/)
-[![Apps](https://img.shields.io/badge/📱_My_Apps-bobjames.dev/apps-fece00?style=for-the-badge&logo=windows&logoColor=white)](https://bobjames.dev/apps)
-
-[![Discord](https://img.shields.io/badge/🎙️_Discord-Join_Community-fece00?style=for-the-badge&logo=discord&logoColor=white)](https://bobjames.dev/discord)
-[![Twitch](https://img.shields.io/badge/🎮_Twitch-Live_Coding-fece00?style=for-the-badge&logo=twitch&logoColor=white)](https://bobjames.dev/twitch)
-
-[![Coffee](https://img.shields.io/badge/☕_Buy_Me_Coffee-Support_My_Work-fece00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bobjames.dev/coffee)
-
-*Building the future, one commit at a time* 🚀
+> Building practical tools, scalable systems, and useful automation. 
+> One commit at a time. 🚀
