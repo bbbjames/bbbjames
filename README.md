@@ -1,20 +1,20 @@
 [![Header](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp)](https://bobjames.dev/)
 
 # Bob James
-### Senior Digital Engineer • Full-Stack Builder • AI & Automation Specialist
+### Senior Digital Engineer • Product Builder • AI & Automation Strategist
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UK%20🇬🇧-Based-1f7a8c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/20%2B%20Years-Experience-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%7C%20Cloud%20%7C%20Automation-Focus-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-United%20Kingdom%20🇬🇧-1f7a8c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-20%2B%20Years-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cloud%20%7C%20Systems-3b82f6?style=for-the-badge" />
 </p>
 
-I build digital systems that turn ideas into real-world products — from architecture and software engineering to automation, integrations, and cloud delivery.
+I help businesses turn complexity into systems that scale — combining engineering, product thinking, automation, and digital strategy to build practical solutions that create momentum.
 
-- 🔭 Current focus: [Streamer Helper](https://github.com/bbbjames/streamer-helper)
-- 🚀 Specialities: AI workflows, automation, product engineering, digital transformation
-- 💡 What I enjoy: solving real business problems with clean, scalable technology
-- 🌱 Always learning: cloud-native design, intelligent tooling, modern product delivery
+- 🔭 Current project: [Streamer Helper](https://github.com/bbbjames/streamer-helper)
+- 🚀 Core strengths: software architecture, automation, AI workflows, product delivery
+- 💡 Approach: build clean systems that solve real problems and create measurable value
+- 🌱 Always exploring: AI-native tooling, cloud infrastructure, modern operational design
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bbbjames&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -22,25 +22,25 @@ I build digital systems that turn ideas into real-world products — from archit
 
 ---
 
-## Featured work
+## Featured projects
 
 ### [Streamer Helper](https://github.com/bbbjames/streamer-helper)
-OBS remote-control tooling for creators, streamers, and live production workflows.
+A creator-focused toolkit for live production and OBS workflow automation.
 
-- Remote OBS scene control
-- Streaming workflow automation
-- Modern desktop/web tooling for creators
+- Remote scene and stream control
+- Workflow simplification for content creators
+- Designed for practical day-to-day use
 
 ### [bobjames.dev](https://bobjames.dev/)
 My portfolio and digital platform for projects, services, and experimentation.
 
-- Product-first web design
-- Performance and clarity focused
-- Practical implementation without unnecessary complexity
+- Clean, performance-oriented web experience
+- Built around clarity, utility, and modern engineering
+- A showcase of product and technical thinking
 
 ---
 
-## Stack
+## Technology stack
 
 ### Languages & frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -53,7 +53,7 @@ My portfolio and digital platform for projects, services, and experimentation.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Platforms, CMS & data
+### CMS, data & platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![Directus](https://img.shields.io/badge/Directus-6644FF?style=flat&logo=directus&logoColor=white)
@@ -75,10 +75,10 @@ My portfolio and digital platform for projects, services, and experimentation.
 ## What I bring
 
 - Product-minded engineering with a business-first lens
-- End-to-end delivery from concept to deployment
-- Digital transformation strategy and implementation
-- Automation that improves real operational efficiency
-- Maintainable systems built for scale and measurable impact
+- End-to-end delivery from idea to implementation and deployment
+- Digital transformation strategy grounded in real-world execution
+- Automation and workflows that reduce friction and increase leverage
+- Systems designed to be maintainable, scalable, and commercially useful
 
 ---
 
@@ -92,4 +92,4 @@ My portfolio and digital platform for projects, services, and experimentation.
   <a href="https://bobjames.dev/coffee"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
-> Building practical tools, reliable systems, and useful automation. One commit at a time. 🚀
+> Building practical tools, scalable systems, and useful automation. One commit at a time. 🚀
