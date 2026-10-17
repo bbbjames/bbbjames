@@ -86,7 +86,7 @@ My portfolio and digital platform for projects, services, and experimentation.
 
 <a href="https://bobjames.dev/discord"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
-<a href="https://bobjames.dev/twitch"><<img src="https://img.shields.io/badge/Twitch-Live%20Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+<a href="https://bobjames.dev/twitch"><img src="https://img.shields.io/badge/Twitch-Live%20Coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
 
 <a href="https://bobjames.dev/coffee"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
 
