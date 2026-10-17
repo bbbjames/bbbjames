@@ -1,7 +1,9 @@
 [![Bob James AI Dev Profile](https://raw.githubusercontent.com/bbbjames/bbbjames/main/bbbheader.webp)](https://bobjames.dev/about)
 
-# Bob James
+# 🧠 Bob James: Building Practical AI, Cloud, and Systems That Scale
 ### Senior Digital Engineer • Product Builder • AI & Automation Strategist
+
+Turning complexity into clear, scalable systems with AI, automation, and product engineering.
 
 <p>
 <img src="https://img.shields.io/badge/Location-United%20Kingdom-1f7a8c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: United Kingdom" />
