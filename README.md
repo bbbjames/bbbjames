@@ -16,7 +16,7 @@ I help businesses turn complexity into systems that scale — combining engineer
 - 💡 Approach: build clean systems that solve real problems and create measurable value
 - 🌱 Always exploring: AI-native tooling, cloud infrastructure, modern operational design
 
-<img src="https://github-readme-stats.vercel.app/api?username=bbbjames&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=bbbjames&show_icons=true&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=ffffff&icon_color=1f7a8c&border_color=1f7a8c" alt="GitHub statistics" />
 
 ---
 
